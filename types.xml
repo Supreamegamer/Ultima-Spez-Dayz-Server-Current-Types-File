@@ -2377,7 +2377,7 @@
     <usage name="School"/>
 </type>
 <type name="Attack2Bag_Black">
-    <nominal>5</nominal>
+    <nominal>4</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>2</min>
@@ -2390,7 +2390,7 @@
     <value name="Tier4"/>
 </type>
 <type name="Attack2Bag_Green">
-    <nominal>5</nominal>
+    <nominal>4</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>2</min>
@@ -2415,7 +2415,7 @@
     <usage name="ContaminatedArea"/>
 </type>
 <type name="Attack2Bag_Yeger">
-    <nominal>5</nominal>
+    <nominal>4</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>2</min>
