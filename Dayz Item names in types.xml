@@ -1,0 +1,437 @@
+This is a list of Many/Most of the items in dayz that go by different names in the types.xml file. On the left are their ingame names, and on the right is there in file name.
+If an item name is not followed by "=" than it goes by the same name in the types file. 
+If an item you're looking for isnt listed here, its file name is likely similar or the same as the one you know it by. 
+A good practice while looking for an item in game files is if the in game name has a space in it, in the files it will not, so try removing the space.
+If you still cannot find it, try replacing the space with an Underscore ( _ )
+
+!!!!WEAPONS!!!!
+DMR = M14
+VSD = SVD
+LAR = FAL
+M4 = M4A1
+AUR AX = AUG
+LE-MAS = FAMAS
+VS-89 = SV98
+Mosin 91/30 = Mosin9130
+M70 Tundra = Winchester70
+CR-550 Savanna = CZ550
+Blaze = B95
+KAM = AKM
+KA-101 = AK101
+AUR A1 = AugShort
+M16-A2 = M16A2
+SK 59/66 = SKS
+VSS
+Vikhr
+SVAL = ASVAL
+KA-74 = KA74
+Pioneer = Scout
+CR-527 = CZ527
+KAS-74U = AKS74U
+SSG-82 = SSG82
+Longhorn
+USG-45 = UMP45
+BK-18 = Izh18
+SG5-K = MP5K
+CR-61 Skorpion = CZ61
+M79
+Bizon = PP19
+R12
+Deagle
+Gold Deagle = Deagle_Gold
+Vaiga = Saiga
+Kolt 1911 = Colt1911
+Engraved Kolt 1911 = Engraved1911
+FX-45 = FNX45
+RAK-37 = PM73Rak
+Repeater Carbine = Repeater
+BK-43 = Izh43Shotgun
+BK-12 = Izh18Shotgun
+BK-133 = Mp133Shotgun
+Revolver = Magnum
+Crossbow
+Mlock-91 = Glock19
+Sporter 22 = Ruger1022
+CR-75 = CZ75
+IJ-70 = MakarovIJ70
+P1
+MK-II = MKII
+Derringer
+Red 9 = Red9
+Signal Pistol = Flaregun
+
+!!!!VESTS!!!!
+Assault Vest = SmershVest
+Ballistic Vest = PressVest
+Chest Holster = ChestHolster
+Chestplate
+Field Vest = UKAssVest
+Plate Carrier = PlateCarrierVest
+Stab Vest = PoliceVest
+Tactical Vest = Tactical Vest
+Hunter Vest = HuntingVest
+Reflective Vest = ReflexVest
+
+!!!!VEST ATTACHMENTS!!!!
+Utility Buttpack = SmershBag
+Holster = PlateCarrierHolster
+Pouches = PlateCarrierPouches
+
+!!!!TOPS!!!!
+Field Jacket = M65Jacket
+Hiking Jacket = HikingJacket
+Hunter Jacket = HuntingJacket
+BDU Jacket = BDUJacket
+Combat Jacket = TTsKOJacket
+Bushlat Jacket = BushlatPoliceJacket
+Rider Jacket = RidersJacket
+Bomber Jacket = BomberJacket
+Patrol Jacket = GorkaEJacket
+Pilot Jacket = PilotJacket
+Firefighter Jacket = FirefighterJacket
+Raincoat = Raincoat
+NBC Jacket = NBCJacket
+Chainmail
+OREL Police Jacket = PoliceJacketOrel
+CUU Jacket = USMCJacket
+Denim Jacket = DenimJacket
+Blouse
+Collar Dress = MiniDress
+Heavy Labor Jacket = GulagJacket
+Hoodie
+Jumpsuit Jacket = JumpsuitJacket
+Lab Coat = LabCoat
+Mens Suit Jacket = ManSuit
+Military Sweater = MilitarySweater
+Military Winter Coat = WinterMilitaryCoat
+Navy Uniform Jacket = NavyUniformJacket
+Nurse Dress = NurseDress
+OMK Jacket = OMKJacket
+Paramedic Jacket = ParamedicJacket
+Pea Coat = WoolCoat
+Police Jacket = PoliceJacket
+Prisoner Jacket = PrisonUniformJacket
+Quilted Jacket = QuiltedJacket
+Scrub T-Shirt = MedicalScrubsShirt
+Shirt
+Sports Shirt = ChernarusSportShirt
+Sweater
+T-Shirt = TShirt
+Tactical Shirt = TacticalShirt
+Telnyashka = TelnyashkaShirt
+Tracksuit Jacket = TrackSuitJacket
+Womens Suit Jacket = WomanSuit
+
+!!!!BELTS!!!!
+Belt = CivilianBelt
+Hip Pack = HipPack
+Tactical Belt = MilitaryBelt
+
+!!!!LEGS!!!!
+BDU Pants = BDUPants
+Capri Pants = Breeches
+Cargo Pants = CargoPants
+Chainmail Leggings = Chainmail_Leggings
+Combat Pants = TTSKOPants
+Crop Hiking Pants = CanvasPantsMidi
+CUU Pants = USMCPants
+Denim Shorts = ShortJeans
+Denim Skirt = Skirt
+Firefighter Pants = FirefightersPants
+Hiking Pants = CanvasPants
+Hunter Pants = HunterPants
+Jeans
+Jumpsuit Pants = JumpsuitPants
+Navy Uniform Pants = NavyUniformPants
+NBC Pants = NBCPants
+OMK Pants = OMKPants
+OREL Police Pants = PolicePantsOrel
+Paramedic Pants = ParamedicPants
+Patrol Pants = GorkaPants
+Police Pants = PolicePants
+Prisoner Pants = PrisonUniformPants
+Scrub Pants = MedicalScrubsPants
+Suit Pants = SlacksPants
+Tracksuit Pants = TrackSuitPants
+
+!!!!BACK!!!!
+Army Pouch = ArmyPouch
+Assault Backpack = AssaultBag
+Canvas Bag = CanvasBag
+Combat Backpack = TortillaBag
+Drybag Backpack = DryBag
+Field Backpack = AliceBag
+Hiking Backpack = TaloonBag
+Hunter Backpack = HuntingBag
+Long Haul Backpack = Attack2Bag
+Mountain Backpack = MountainBag
+School Backpack = ChildBag
+Sling Bag = SlingBag
+Tactical Backpack = CoyoteBag
+Ghillie Suit = GhillieSuit
+Ghillie Shrug = GhillieBushrag
+Ghillie Cloak = GhillieTop
+
+!!!!HATS/HOODS!!!!
+Bandana
+Baseball Cap = BaseballCap
+Beanie = BeanieHat
+Beret = MilitaryBeret
+Boonie Hat = BoonieHat
+Budenovka = BudenovkaHat
+Burlap Sack = BurlapSack
+Chainmail Coif = Chainmail_Coif
+Christmas Headband = ChristmasHeadband
+Cowboy Hat = CowboyHat
+Flat Cap = FlatCap
+Ghillie Hood = GhillieHood
+Jack-o'-lantern = PumpkinHelmet
+Morozko Hat = MorozkoHat
+NBC Hood = NBCHood
+Officer Cap = OfficerHat
+OKZK Cap = OKZKCap
+Petushok Hat = PetushokHat
+Pilotka = PilotkaCap
+Police Cap = PoliceCap
+Prisoner Cap = PrisonerCap
+Radar Cap = RadarCap
+Santa Hat = SantasHat
+Shemagh = Shemag
+Sherpa Hat = SherpaHat
+Scrub Hat = MedicalScrubsHat
+Snowstorm Ushanka = SnowstormUshanka
+Ushanka
+Winter Coif = WinterCoif
+Witch Hat = WitchHat
+Witch Hood = WitchHood
+Zmiovka = ZmijovkaCap
+
+!!!!HELMETS!!!!
+Assault Helmet = GorkaHelmet
+Ballistic Helmet = BallisticHelmet
+Combat Helmet = Ssh68Helmet
+Enduro Helmet = DirtBikeHelmet
+Firefighter Helmet = FirefightersHelmet
+Flight Helmet = ZSh3PilotHelmet
+Great Helm = GreatHelm
+Hard Hat = ConstructionHelmet
+Hockey Helmet = HockeyHelmet
+Motorbike Helmet = DarkMotoHelmet & MotoHelmet
+Skate Helmet = SkateHelmet
+Tactical Helmet = Mich2001Helmet
+Tanker Helmet = TankerHelmet
+Welding Mask = WeldingMask
+Norse Helm = NorseHelm
+
+!!!!HELMET ACCESSORIES!!!!
+Assault Helmet Visor = GorkaHelmetVisor
+Enduro Helmet Mouthguard = DirtBikeHelmet_Mouthguard
+Enduro Helmet Visor = irtBikeHelmet_Visor
+Night Vision Goggles = NVGoggles
+
+!!!!FACE!!!!
+Ski Mask = BalaclavaMask
+Balaclava = Balaclava3Holes
+Gas Mask = GP5GasMask
+NBC Respirator = AirborneMask
+Combat Gas Mask = GasMask
+Santa Beard = SantasBeard
+Carnival Mask = EyeMask
+Dust Mask = NioshFaceMask
+Crooked Nose = CrookedNose
+Hockey Mask = HockeyMask
+Mime Mask = MimeMask
+Surgical Mask = SurgicalMask
+
+!!!!EYES!!!!
+Athletic Sunglasses = SportGlasses
+Aviator Sunglasses = AviatorGlasses
+Casual Sunglasses = DesignerGlasses
+Classic Glasses = ThickFramesGlasses
+Head Torch = Headtorch
+NVG Headstrap = NVGHeadstrap
+Ski Goggles = SkiGoggles
+Slim Glasses = ThinFramesGlasses
+Tactical Goggles = TacticalGoggles
+
+!!!!HANDS!!!!
+Ski Gloves = SkiGloves
+NBC Gloves = NBCGloves
+Combat Gloves = OMNOGloves
+Fingerless Gloves = WoolGlovesFingerless
+Padded Gloves = PaddedGloves
+Surgical Gloves = SurgicalGloves
+Tactical Gloves = TacticalGloves
+Wool Gloves = WoolGloves
+Working Gloves = WorkingGloves
+
+!!!!FEET!!!!
+Fur Boots = TraditionalBoots
+NBC Boots = NBCBoots
+Wellies
+Medieval Boots  = MedievalBoots
+Military Winter Boots = ColdOperationBoots
+Hiking Boots = HikingBoots
+Assault Boots = MilitaryBoots
+Athletic Shoes = AthleticShoes
+Combat Boots = TTSKOBoots
+Dress Shoes = DressShoes
+Hunter Boots = CombatBoots
+Jungle Boots = JungleBoot
+Running Shoes = JoggingShoes
+Sneakers
+Trail Shoes = HikingBootsLow
+Working Boots = WorkingBoots
+
+!!!!WEAPON OPTICS!!!!
+1PN51 Scope = KazuarOptic
+ATOG 4x32 Scope = ACOGOptic
+ATOG 6x48 Scope = ACOGOptic_6x
+Hunting Scope = HuntingOptic
+Marksman Scope = MK4Optic
+NV-PVS4 Scope = StarlightOptic
+P1-87-L Scope = KashtanOptic
+Handgun Scope = PistolOptic
+PSO-1-1 Scope = PSO11Optic
+PSO-1 Scope = PSO1Optic
+PSO-6 Scope = PSO6Optic
+PU Scope = PUScopeOptic
+Baraka Sights = ReflexOptic
+Backup Iron Sights = BUISOptic
+M4-A1 Carry Handle Sights = M4_CarryHandleOptic
+Combat Sights = M68Optic
+Kobra Sights = KobraOptic
+Mini Sights = FNP45_MRDSOptic
+RVN Sights = M4_T3NRDSOptic
+Sportpoint Sights = SportingOptic
+
+!!!!WEAPON MUZZLES!!!!
+KA Bayonet = AK_Bayonet
+M4-A1 Bayonet = M9A1_Bayonet
+Mosin 91/30 Bayonet = Mosin_Bayonet
+SK 59/66 Bayonet = SKS_Bayonet
+Mosin 91/30 Compensator = Mosin_Compensator
+SG5-K Compensator = MP5_Compensator
+Normalized Suppressor = AK_Suppressor
+Standardized Suppressor = M4_Suppressor
+Pistol Suppressor = PistolSuppressor
+
+!!!!WEAPON BUTTSTOCKS!!!!
+KAS-74U Lightweight Buttstock = AKS74U_Bttstck
+KA74 Wooden Buttstock = AK74_WoodBttstck
+KA Lightweight Buttstock = AK_FoldingBttstck
+KA Polymer Buttstock = AK_PlasticBttstck
+KA Wooden Buttstock = AK_WoodBttstck
+LAR Lightweight Buttstock = Fal_FoldingBttstck
+LAR Polymer Buttstock = Fal_OeBttstck
+M4-A1 CQB Buttstock = M4_CQBBttstck
+M4-A1 MP Buttstock = M4_MPBttstck
+M4-A1 Telescopic Buttstock = M4_OEBttstck
+Bizon Lightweight Buttstock = PP19_Bttstck
+SG5-K Lightweight Buttstock = MP5k_StockBttstck
+Vaiga Lightweight Buttstock = Saiga_Bttstck
+Red9 Buttstock = Red9_Bttstck (Educated Guess)
+
+!!!!WEAPON HANDGUARDS!!!!
+KA74 Wooden Handguard = AK74_Hndgrd
+KA Polymer Handguard = AK_PlasticHndgrd
+KA Rail Handguard = AK_RailHndgrd
+KA Wooden Handguard = AK_WoodHndgrd
+M4-A1 MP Handguard = M4_MPHndgrd
+M4-A1 Polymer Handguard = M4_PlasticHndgrd
+M4-A1 Rail Handguard = M4_RISHndgrd
+SG5-K Polymer Handguard = MP5_PlasticHndgrd
+SG5-K Rail Handguard = 
+
+!!!!WEAPON MAGAZINES!!!!
+10rd MK II Mag = Mag_MKII_10Rnd
+12rd IJ-70 Mag = Mag_IJ70_8Rnd
+15rd CR-75 Mag = Mag_CZ75_15Rnd
+15rd Mlock-91 Mag = Mag_Glock_15Rnd
+15rd FX-45 Mag = Mag_FNX45_15Rnd
+7rd Kolt 1911 Mag = Mag_1911_7Rnd
+9rd Deagle Mag = Mag_Deagle_9rnd
+64rd Bizon Mag = Mag_PP19_64Rnd
+20rd CR-61 Mag = Mag_CZ61_20Rnd
+15rd SG5-K Mag = Mag_MP5_15Rnd
+30rd SG5-K Mag = Mag_MP5_30Rnd
+25rd USG-45 Mag = Mag_UMP_25Rnd
+5rd Vaiga Mag = Mag_Saiga_5Rnd
+8rd Vaiga Mag = Mag_Saiga_8Rnd
+20rd Drum Vaiga Mag = Mag_Saiga_Drum20Rnd
+15rd Sporter 22 Mag = Mag_Ruger1022_15Rnd
+30rd Sporter 22 Mag = Mag_Ruger1022_30Rnd
+5rd CR-527 Mag = Mag_CZ527_5rnd
+5rd Pioneer Mag = Mag_Scout_5Rnd
+5rd SSG 82 Mag = Mag_SSG82_5rnd
+10rd VSS Mag = Mag_VSS_10Rnd
+20rd SVAL Mag = Mag_VAL_20Rnd
+30rd Vikhr Mag = Mag_Vikhr_30Rnd
+10rd Mag-C Mag = Mag_CMAG_10Rnd
+20rd Mag-C Mag = Mag_CMAG_20Rnd
+30rd Mag-C Mag = Mag_CMAG_30Rnd
+30rd Standardized Mag = Mag_STANAG_30Rnd
+40rd Mag-C Mag = Mag_CMAG_40Rnd
+60rd Standardized Mag = Mag_STANAG_60Rnd
+25rd LE-MAS Mag = Mag_FAMAS_25Rnd
+30rd KA-M Mag = Mag_AKM_30Rnd
+30rd KA-M Polymer Mag = Mag_AKM_Palm30Rnd
+75rd KA-M Drum Mag = Mag_AKM_Drum75Rnd
+30rd KA-101 Mag = Mag_AK101_30Rnd
+30rd KA-74 Mag = Mag_AK74_30Rnd
+45rd KA-74 Mag = Mag_AK74_45Rnd
+20rd LAR Mag = Mag_FAL_20Rnd
+10rd DMR Mag = Mag_M14_10Rnd
+20rd DMR Mag = Mag_M14_20Rnd
+10rd VSD Mag = Mag_SVD_10Rnd
+
+!!!!WEAPON MISC ATTACHMENTS!!!!
+Pistol Flashlight = TLRLight
+Universal Flashlight = UniversalLight
+Ghillie Rifle Wrap = GhillieAtt
+
+!!!!AMMUNITION!!!!
+Bolt = Ammo_HuntingBolt
+.22 LR Rounds = Ammo_22 & AmmoBox_22_50Rnd
+.380 ACP Rounds = Ammo_380 & AmmoBox_380_35rnd
+9x19mm Rounds = Ammo_9x19 & AmmoBox_9x19_25rnd
+.45 ACP Rounds = Ammo_45ACP & AmmoBox_45ACP_25rnd
+.357 Rounds = Ammo_357 & AmmoBox_357_20Rnd
+9x39mm Rounds = Ammo_9x39 & AmmoBox_9x39_20Rnd
+9x39mm AP Rounds = Ammo_9x39AP & AmmoBox_9x39AP_20Rnd
+7.62x39mm Rounds = Ammo_762x39 & AmmoBox_762x39_20Rnd
+7.62x39mm Tracer Rounds = Ammo_762x39Tracer & AmmoBox_762x54Tracer_20Rnd
+5.56x45mm Rounds = Ammo_556x45 & AmmoBox_556x45_20Rnd
+5.56x45mm Tracer Rounds = Ammo_556x45Tracer & AmmoBox_762x39Tracer_20Rnd
+5.45x39mm Rounds = Ammo_545x39 & AmmoBox_545x39_20Rnd
+5.45x39mm Tracer Rounds = Ammo_545x39Tracer & AmmoBox_545x39Tracer_20Rnd
+.308 WIN Rounds = Ammo_308Win & AmmoBox_308Win_20Rnd
+.308 WIN Tracer Rounds = Ammo_308WinTracer & AmmoBox_308WinTracer_20Rnd
+7.62x54mmR Rounds = Ammo_762x54 & AmmoBox_762x54_20Rnd
+7.62x54mmR Tracer Rounds = Ammo_762x54Tracer & AmmoBox_762x54Tracer_20Rnd
+12ga 00 Buckshots = Ammo_12gaPellets & AmmoBox_00buck_10rnd
+12ga Rifled Slugs = Ammo_12gaSlug & AmmoBox_12gaSlug_10Rnd
+12ga Rubber Slugs = Ammo_12gaRubberSlug & AmmoBox_12gaRubberSlug_10Rnd
+40mm Explosive Grenade = Ammo_40mm_Explosive
+40mm PO-X Grenade = Ammo_40mm_Chemgas
+40mm Smoke Grenade = Ammo_40mm_Smoke
+
+!!!!GRENADES!!!!
+PO-X Grenade = Grenade_ChemGas
+EGD-5 Frag Grenade = RGD5Grenade
+6-M7 Frag Grenade = M67Grenade
+EGD-2 Smoke Grenade = RDG2SmokeGrenade
+1-M8 Smoke Grenade = M18SmokeGrenade
+
+!!!!MISC ITEMS!!!! (anything important I could think of off top of my head)
+Sheet Metal = MetalPlate
+Jerrycan = CanisterGasoline
+Protective Case = SmallProtectorCase
+Kukri = KukriKnife
+Matches = Matchbox
+Handheld Transceiver = PersonalRadio
+Plastic Explosive = Plastic_Explosive
+Bandage = BandageDressing
+Remote Detonation Unit = RemoteDetonator
+Sheath = NylonKnifeSheath
+
