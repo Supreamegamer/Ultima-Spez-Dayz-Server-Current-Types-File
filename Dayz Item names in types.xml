@@ -1,4 +1,4 @@
-This is a list of Many/Most of the items in dayz that go by different names in the types.xml file. On the left are their ingame names, and on the right is there in file name.
+# This is a list of Many/Most of the items in dayz that go by different names in the types.xml file. On the left are their ingame names, and on the right is there in file name.
 If an item name is not followed by "=" than it goes by the same name in the types file. 
 If an item you're looking for isnt listed here, its file name is likely similar or the same as the one you know it by. 
 A good practice while looking for an item in game files is if the in game name has a space in it, in the files it will not, so try removing the space.
